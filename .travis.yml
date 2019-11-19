@@ -4,7 +4,7 @@ go:
   - 1.10.x
   - 1.11.x
   - master
-go_import_path: github.com/kshvakov/clickhouse
+go_import_path: github.com/loloxiaoz/clickhouse-driver
 services:
   - docker
 install:

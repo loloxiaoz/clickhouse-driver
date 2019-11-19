@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/kshvakov/clickhouse"
+	"github.com/loloxiaoz/clickhouse-driver"
 	"github.com/stretchr/testify/assert"
 )
 

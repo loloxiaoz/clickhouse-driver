@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/kshvakov/clickhouse/lib/binary"
+	"github.com/loloxiaoz/clickhouse-driver/lib/binary"
 )
 
 type Nullable struct {

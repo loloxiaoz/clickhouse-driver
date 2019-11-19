@@ -1,4 +1,4 @@
-module github.com/kshvakov/clickhouse
+module github.com/loloxiaoz/clickhouse-driver
 
 go 1.12
 

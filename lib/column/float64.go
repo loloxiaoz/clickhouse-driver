@@ -1,7 +1,7 @@
 package column
 
 import (
-	"github.com/kshvakov/clickhouse/lib/binary"
+	"github.com/loloxiaoz/clickhouse-driver/lib/binary"
 )
 
 type Float64 struct{ base }

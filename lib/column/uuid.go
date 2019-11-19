@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/kshvakov/clickhouse/lib/binary"
+	"github.com/loloxiaoz/clickhouse-driver/lib/binary"
 )
 
 const (
